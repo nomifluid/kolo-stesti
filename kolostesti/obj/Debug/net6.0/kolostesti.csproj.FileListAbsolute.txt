@@ -1,0 +1,15 @@
+/Users/fedormoiseev/Projects/kolostesti/kolostesti/bin/Debug/net6.0/kolostesti
+/Users/fedormoiseev/Projects/kolostesti/kolostesti/bin/Debug/net6.0/kolostesti.deps.json
+/Users/fedormoiseev/Projects/kolostesti/kolostesti/bin/Debug/net6.0/kolostesti.runtimeconfig.json
+/Users/fedormoiseev/Projects/kolostesti/kolostesti/bin/Debug/net6.0/kolostesti.dll
+/Users/fedormoiseev/Projects/kolostesti/kolostesti/bin/Debug/net6.0/kolostesti.pdb
+/Users/fedormoiseev/Projects/kolostesti/kolostesti/obj/Debug/net6.0/kolostesti.csproj.AssemblyReference.cache
+/Users/fedormoiseev/Projects/kolostesti/kolostesti/obj/Debug/net6.0/kolostesti.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fedormoiseev/Projects/kolostesti/kolostesti/obj/Debug/net6.0/kolostesti.AssemblyInfoInputs.cache
+/Users/fedormoiseev/Projects/kolostesti/kolostesti/obj/Debug/net6.0/kolostesti.AssemblyInfo.cs
+/Users/fedormoiseev/Projects/kolostesti/kolostesti/obj/Debug/net6.0/kolostesti.csproj.CoreCompileInputs.cache
+/Users/fedormoiseev/Projects/kolostesti/kolostesti/obj/Debug/net6.0/kolostesti.dll
+/Users/fedormoiseev/Projects/kolostesti/kolostesti/obj/Debug/net6.0/refint/kolostesti.dll
+/Users/fedormoiseev/Projects/kolostesti/kolostesti/obj/Debug/net6.0/kolostesti.pdb
+/Users/fedormoiseev/Projects/kolostesti/kolostesti/obj/Debug/net6.0/kolostesti.genruntimeconfig.cache
+/Users/fedormoiseev/Projects/kolostesti/kolostesti/obj/Debug/net6.0/ref/kolostesti.dll
